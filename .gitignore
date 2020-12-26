@@ -1,0 +1,4 @@
+.env
+*.pyc
+.git/
+py3env/
